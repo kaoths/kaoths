@@ -15,7 +15,17 @@
   - 🐈 Cats (I'm a cat owner)
   - 🤖 Gadgets (Can't stop buying)
 
-<hr />
+<br />  
+
+### Connect with me
+<p align="left">
+<a href="https://twitter.com/kaoths" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaoths" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaoths" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaoths" height="30" width="40" /></a>
+<a href="https://fb.com/kaoths" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaoths" height="30" width="40" /></a>
+<a href="https://instagram.com/kaoths" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaoths" height="30" width="40" /></a>
+</p>
+
+<br />  
 
 ### My Stacks & Tools
 
@@ -94,6 +104,17 @@
 <p>
  <img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" />
 </p>
+
+<br />
+
+### 🏆 Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaoths&custom_title=kaoths%27s%20GitHub%20Stats&show_icons=true&rank_icon=github&line_height=20&text_bold=false&locale=en&theme=github_dark_dimmed" alt="kaoths" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaoths&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="kaoths" />
+</p>
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaoths&mode=weekly)](https://git.io/streak-stats) -->
+
 <!--  
 **kaoths/kaoths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
