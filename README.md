@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-##### My name is "Tanawit Kritwongwiman"
-##### Or you can call me "Kao Oat"  
+#### My name is "Tanawit Kritwongwiman"
+#### Or you can call me "Kao Oat"  
 
 ### About me ❔
 - 🔭 I’m currently working on [EDSY AI Coach](https://coach.edsy.co), an educational platform.
@@ -107,11 +107,11 @@
 
 <br />
 
-### 🏆 Stats
-<p>
+<!-- ### 🏆 Stats -->
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api?username=kaoths&custom_title=kaoths%27s%20GitHub%20Stats&show_icons=true&rank_icon=github&line_height=20&text_bold=false&locale=en&theme=github_dark_dimmed" alt="kaoths" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaoths&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="kaoths" />
-</p>
+</p> -->
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaoths&mode=weekly)](https://git.io/streak-stats) -->
 
